@@ -2,8 +2,9 @@
 
 |模块名称|描述|对应数据库|端口|
 |---|---|---|---|
-|gulimall-product|商品系统|gulimall-pms||
-|gulimall-coupon|优惠卷服务|gulimall-sms||
+|gulimall-product|商品系统|gulimall_pms|8101|
+|gulimall-coupon|优惠卷服务|gulimall_sms|7000|
+|gulimall-member|会员服务|gulimall_ums|7001|
 
 
 
