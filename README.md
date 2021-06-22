@@ -1,10 +1,12 @@
-# 谷粒商城
+# 谷粒商城（老师录制视频时间为2019-10-08）
 
 |模块名称|描述|对应数据库|端口|
 |---|---|---|---|
-|gulimall-product|商品系统|gulimall_pms|8101|
 |gulimall-coupon|优惠卷服务|gulimall_sms|7000|
-|gulimall-member|会员服务|gulimall_ums|7001|
+|gulimall-member|会员服务|gulimall_ums|8000|
+|gulimall-order|订单服务|gulimall_oms|9000|
+|gulimall-product|商品系统|gulimall_pms|10000|
+|gulimall-ware|仓储服务|gulimall_wms|11000|
 
 
 
