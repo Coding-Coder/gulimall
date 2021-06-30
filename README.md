@@ -24,7 +24,10 @@
 
 
 
-
+## 视频笔记
+[谷粒商城笔记-新手级教程(1/4)](https://blog.csdn.net/hancoder/article/details/106922139)
+[谷粒商城笔记-基础篇(2/4)](https://blog.csdn.net/hancoder/article/details/107612619)
+[谷粒商城笔记-分布式高级(3/4)](https://blog.csdn.net/hancoder/article/details/107612746)
 
 
 ## 个人学习进度
@@ -37,3 +40,5 @@ start at 2021-5-28,但是中间去学习了谷粒学院
 - day05:P33-P34
 - day06:P35-P45
 - day07:P46-P53
+- day08:P54-P70
+- day09:P71-
